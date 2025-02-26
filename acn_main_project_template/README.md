@@ -17,7 +17,7 @@ Ardından mason'u projeye dahil et;
 ```
 acn_main_project_template brick'ini ekle
 ```shell
-  mason add acn_main_project_template --git-url https://github.com/kullanici/mason-brick
+  mason add acn_main_project_template --git-url http://git.acnturk.com.tr:3000/muhammed.zeyrek/Acn_Mobile_Templates/src/branch/master/acn_main_project_template
 ```
 son olarak brick'i dizine oluşturucak komutu gir.
 ```shell
