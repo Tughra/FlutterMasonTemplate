@@ -17,7 +17,7 @@ Ardından mason'u projeye dahil et;
 ```
 acn_main_project_template brick'ini ekle
 ```shell
-  mason add acn_main_project_template --git-url https://github.com/Tughra/FlutterMasonTemplate/tree/master/acn_main_project_template
+  mason add acn_main_project_template --git-url https://github.com/Tughra/FlutterMasonTemplate --git-path acn_main_project_template
 ```
 son olarak brick'i dizine oluşturucak komutu gir.
 ```shell
