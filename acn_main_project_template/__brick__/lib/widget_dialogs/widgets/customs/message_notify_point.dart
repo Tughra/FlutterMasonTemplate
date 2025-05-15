@@ -1,7 +1,7 @@
 import 'package:{{project_file_name}}/core/extensions/context_extension.dart';
 import 'package:{{project_file_name}}/core/extensions/int_extension.dart';
 import 'package:{{project_file_name}}/core/managers/url_launcher_manager.dart';
-import 'package:{{project_file_name}}/model_view/app_life/app_theme.dart';
+import 'package:{{project_file_name}}/model_view/app/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_linkify/flutter_linkify.dart';
 import 'package:provider/provider.dart';
