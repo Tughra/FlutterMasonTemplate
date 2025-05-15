@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:{{project_file_name}}/core/functions/global_functions.dart';
-import 'package:{{project_file_name}}/model_view/auto_complete_provider.dart';
-import 'package:{{project_file_name}}/models/common/auto_complete_models.dart';
+import 'package:{{project_file_name}}/model_view/common/auto_complete_provider.dart';
+import 'package:{{project_file_name}}/models/common/base_autocomplete_model.dart';
 import 'package:{{project_file_name}}/models/management.dart';
 import 'package:{{project_file_name}}/utils/constants/values_manager.dart';
 import 'package:{{project_file_name}}/views/common/un_loaded_page.dart';

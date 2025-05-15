@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
+import 'package:{{project_file_name}}/core/managers/notifications/channel_const.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:{{project_file_name}}/core/notifications/channel_const.dart';
 import 'package:{{project_file_name}}/utils/constants/values_manager.dart';
 import 'package:{{project_file_name}}/utils/print_log.dart';
 import 'package:path_provider/path_provider.dart';

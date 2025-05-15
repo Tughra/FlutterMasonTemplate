@@ -4,10 +4,11 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:{{project_file_name}}/core/extensions/context_extension.dart';
-import 'package:{{project_file_name}}/core/notifications/notification_permission.dart';
-import 'package:{{project_file_name}}/core/observers/life_cycle_observer.dart';
+import 'package:{{project_file_name}}/core/managers/notifications/notification_permission.dart';
+import 'package:{{project_file_name}}/core/managers/observers/life_cycle_observer.dart';
 import 'package:{{project_file_name}}/widget_dialogs/widgets/buttons/notification_activate.dart';
 import 'package:{{project_file_name}}/widget_dialogs/widgets/customs/custom_appbars/appbar.dart';
+import 'package:{{project_file_name}}/widget_dialogs/widgets/customs/notification_activate.dart'
 import 'package:permission_handler/permission_handler.dart';
 
 class NotificationSettingPage extends StatefulWidget {

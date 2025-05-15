@@ -1,7 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:{{project_file_name}}/core/managers/version_check_manager.dart';
-import 'package:{{project_file_name}}/core/notifications/cloud_notification_service.dart';
-import 'package:{{project_file_name}}/core/notifications/notification_permission.dart';
+import 'package:{{project_file_name}}/core/managers/notifications/cloud_notification_service.dart';
+import 'package:{{project_file_name}}/core/managers/notifications/notification_permission.dart';
 import 'package:{{project_file_name}}/core/services/dialog_service.dart';
 import 'package:{{project_file_name}}/model_view/user/login_provider.dart';
 import 'package:{{project_file_name}}/repository/services/login/login_service.dart';

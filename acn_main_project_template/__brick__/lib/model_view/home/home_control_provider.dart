@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:{{project_file_name}}/core/observers/life_cycle_observer.dart';
+import 'package:{{project_file_name}}/core/managers/observers/life_cycle_observer.dart';
 import 'package:{{project_file_name}}/core/services/anlytics.dart';
 
 enum HomeChildrenPages{
