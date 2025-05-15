@@ -1,4 +1,3 @@
-
 import 'package:flutter/widgets.dart';
 import 'package:{{project_file_name}}/models/common/base_autocomplete_model.dart';
 import 'package:{{project_file_name}}/models/management.dart';
